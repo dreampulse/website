@@ -1,6 +1,8 @@
 export const isSponsor = (key: string) =>
 	[
+		'abs-safety',
 		'alm',
+		'alm-engineering',
 		'codecentric',
 		'deno',
 		'hipsquare',
@@ -10,7 +12,7 @@ export const isSponsor = (key: string) =>
 		'maibornwolff',
 		'peerigon',
 		'project-lary',
-		'saab-deutschland',
+		'saab',
 		'satellytes',
 		'tiffinger-thiel',
 		'tng-technology-consulting',
